@@ -1,5 +1,5 @@
 <template>
-  <span>aaa</span>
+  <span>aaabb</span>
 </template>
 
 <script>
@@ -7,7 +7,7 @@
 export default {
   name: 'App',
   components: {
-    
+
   }
 }
 </script>
